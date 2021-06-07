@@ -1,0 +1,29 @@
+print function and simple arthemetical operations in it
+declaring a variable and overwritting the  variable and increament or decreament the value of variable
+multiple assignment operator
+rules to follow when declaring a variable
+different types of operators and special operators 
+basics of integers and floats 
+converting one datatype to another 
+boolean,comparison operators, logical operators
+declaring strings
+printing statement based on parenthesis
+calculating len,sorted,max,min in strings and different datatypes
+type() 
+printing the statement with different datatypes
+format()
+lists
+checking a word present in the statement by using "in"
+comparision between strings and lists in different ways
+mutability and order
+tuple
+slicing
+indexing
+ordering
+appending
+\n,-
+for loops
+range function(start,stop,step)....
+one or more variables assignment
+
+
