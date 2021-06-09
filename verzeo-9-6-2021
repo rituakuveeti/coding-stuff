@@ -1,0 +1,12 @@
+lists
+append function 
+insert function 
+extend unction
+pop inbuild function
+remove inbuild function
+clear inbuild function
+#change,order,changeor mutability in lists,dupicate
+
+#tuples - order,not changable or immutability,tuple
+#we can also get the type of datastructes by type()
+
